@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Etherpad-Lite Heroku
 
 Deploy Etherpad-Lite on Heroku. Whole Etherpad-Lite configuration, including plugins, can be specified in Heroku configuration variables (ENV).
@@ -20,7 +20,7 @@ Etherpad is a real-time collaborative editor scalable to thousands of simultaneo
 
 As the project has Etherpad as submodule, you need to clone it with `--recursive` flag:
 
-<<<<<<< HEAD
+
 `git clone --recursive https://github.com/citizenos/etherpad-lite-heroku.git`
 
 ### Configuration
